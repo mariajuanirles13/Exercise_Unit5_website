@@ -10,4 +10,4 @@ Practica 1 - Proyecto web para el ejercicio de Entornos de Desarrollo. - MARÍA 
 3.  Abre esa carpeta y haz doble clic en el `index.html`.
 
 ## Enlace a GitHub Pages
-(El enlace se añadirá más adelante, en el paso 7)
+(https://mariajuaniies13.github.io/Exercise_Unit5_website/)
