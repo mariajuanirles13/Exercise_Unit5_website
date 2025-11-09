@@ -1,0 +1,10 @@
+body 
+{
+  background-color: #f0f0f0; /* Color de fondo gris claro */
+  font-family: Arial, sans-serif;
+}
+
+p 
+{
+  color: blue; /* Cambia el color del párrafo a azul */
+}
